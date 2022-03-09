@@ -1,0 +1,288 @@
+Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,Usuarie-nick,Usuarie-genero,Usuarie-edad,Estado,Palabra,nivel,dia
+0,1,4,inicio_partida,Juan,Masculino,40,,,NIVEL_1,sabado
+768,1,4,intento,Juan,Masculino,40,error,venusaur,NIVEL_1,sabado
+901,1,4,intento,Juan,Masculino,40,error,bulbasaur,NIVEL_1,sabado
+944,1,4,intento,Juan,Masculino,40,error,ivysaur,NIVEL_1,sabado
+1101,1,4,intento,Juan,Masculino,40,error,charmander,NIVEL_1,sabado
+1141,1,4,intento,Juan,Masculino,40,error,bulbasaur,NIVEL_1,sabado
+1300,1,4,intento,Juan,Masculino,40,ok,bulbasaur,NIVEL_1,sabado
+1334,1,4,intento,Juan,Masculino,40,error,ivysaur,NIVEL_1,sabado
+1501,1,4,intento,Juan,Masculino,40,ok,ivysaur,NIVEL_1,sabado
+1517,1,4,intento,Juan,Masculino,40,error,venusaur,NIVEL_1,sabado
+1700,1,4,intento,Juan,Masculino,40,ok,venusaur,NIVEL_1,sabado
+1741,1,4,intento,Juan,Masculino,40,error,charmander,NIVEL_1,sabado
+1800,1,4,intento,Juan,Masculino,40,ok,charmander,NIVEL_1,sabado
+1800,1,4,fin,Juan,Masculino,40,finalizada,,NIVEL_1,sabado
+0,2,8,inicio_partida,Juan,Masculino,40,,,NIVEL_2,sabado
+146,2,8,intento,Juan,Masculino,40,error,charizard,NIVEL_2,sabado
+401,2,8,intento,Juan,Masculino,40,error,squirtle,NIVEL_2,sabado
+449,2,8,intento,Juan,Masculino,40,error,bulbasaur,NIVEL_2,sabado
+601,2,8,intento,Juan,Masculino,40,error,charmander,NIVEL_2,sabado
+669,2,8,intento,Juan,Masculino,40,error,squirtle,NIVEL_2,sabado
+801,2,8,intento,Juan,Masculino,40,ok,squirtle,NIVEL_2,sabado
+840,2,8,intento,Juan,Masculino,40,error,bulbasaur,NIVEL_2,sabado
+1001,2,8,intento,Juan,Masculino,40,error,charizard,NIVEL_2,sabado
+1044,2,8,intento,Juan,Masculino,40,error,bulbasaur,NIVEL_2,sabado
+1200,2,8,intento,Juan,Masculino,40,ok,bulbasaur,NIVEL_2,sabado
+1286,2,8,intento,Juan,Masculino,40,error,ivysaur,NIVEL_2,sabado
+1401,2,8,intento,Juan,Masculino,40,error,wartortle,NIVEL_2,sabado
+1476,2,8,intento,Juan,Masculino,40,error,ivysaur,NIVEL_2,sabado
+1601,2,8,intento,Juan,Masculino,40,ok,ivysaur,NIVEL_2,sabado
+1651,2,8,intento,Juan,Masculino,40,error,venusaur,NIVEL_2,sabado
+1801,2,8,intento,Juan,Masculino,40,error,wartortle,NIVEL_2,sabado
+1880,2,8,intento,Juan,Masculino,40,error,wartortle,NIVEL_2,sabado
+2000,2,8,intento,Juan,Masculino,40,ok,wartortle,NIVEL_2,sabado
+2059,2,8,intento,Juan,Masculino,40,error,venusaur,NIVEL_2,sabado
+2200,2,8,intento,Juan,Masculino,40,ok,venusaur,NIVEL_2,sabado
+2225,2,8,intento,Juan,Masculino,40,error,charmander,NIVEL_2,sabado
+2400,2,8,intento,Juan,Masculino,40,error,charizard,NIVEL_2,sabado
+2400,2,8,intento,Juan,Masculino,40,error,charizard,NIVEL_2,sabado
+2500,2,8,intento,Juan,Masculino,40,ok,charizard,NIVEL_2,sabado
+2603,2,8,intento,Juan,Masculino,40,error,charmeleon,NIVEL_2,sabado
+2700,2,8,intento,Juan,Masculino,40,error,charmander,NIVEL_2,sabado
+2771,2,8,intento,Juan,Masculino,40,error,charmeleon,NIVEL_2,sabado
+2901,2,8,intento,Juan,Masculino,40,ok,charmeleon,NIVEL_2,sabado
+2941,2,8,intento,Juan,Masculino,40,error,charmander,NIVEL_2,sabado
+3100,2,8,intento,Juan,Masculino,40,ok,charmander,NIVEL_2,sabado
+3100,2,8,fin,Juan,Masculino,40,finalizada,,NIVEL_2,sabado
+0,3,4,inicio_partida,Jose,Masculino,15,,,NIVEL_1,domingo
+212,3,4,intento,Jose,Masculino,15,error,venusaur,NIVEL_1,domingo
+300,3,4,intento,Jose,Masculino,15,error,ivysaur,NIVEL_1,domingo
+374,3,4,intento,Jose,Masculino,15,error,ivysaur,NIVEL_1,domingo
+500,3,4,intento,Jose,Masculino,15,ok,ivysaur,NIVEL_1,domingo
+544,3,4,intento,Jose,Masculino,15,error,bulbasaur,NIVEL_1,domingo
+700,3,4,intento,Jose,Masculino,15,error,venusaur,NIVEL_1,domingo
+742,3,4,intento,Jose,Masculino,15,error,charmander,NIVEL_1,domingo
+900,3,4,intento,Jose,Masculino,15,error,bulbasaur,NIVEL_1,domingo
+993,3,4,intento,Jose,Masculino,15,error,bulbasaur,NIVEL_1,domingo
+1100,3,4,intento,Jose,Masculino,15,ok,bulbasaur,NIVEL_1,domingo
+1219,3,4,intento,Jose,Masculino,15,error,venusaur,NIVEL_1,domingo
+1300,3,4,intento,Jose,Masculino,15,error,charmander,NIVEL_1,domingo
+1379,3,4,intento,Jose,Masculino,15,error,charmander,NIVEL_1,domingo
+1501,3,4,intento,Jose,Masculino,15,ok,charmander,NIVEL_1,domingo
+1553,3,4,intento,Jose,Masculino,15,error,venusaur,NIVEL_1,domingo
+1700,3,4,intento,Jose,Masculino,15,ok,venusaur,NIVEL_1,domingo
+1700,3,4,fin,Jose,Masculino,15,finalizada,,NIVEL_1,domingo
+0,4,4,inicio_partida,Carla,Femenino,19,,,NIVEL_1,lunes
+114,4,4,intento,Carla,Femenino,19,error,bulbasaur,NIVEL_1,lunes
+300,4,4,intento,Carla,Femenino,19,error,ivysaur,NIVEL_1,lunes
+348,4,4,intento,Carla,Femenino,19,error,ivysaur,NIVEL_1,lunes
+501,4,4,intento,Carla,Femenino,19,ok,ivysaur,NIVEL_1,lunes
+552,4,4,intento,Carla,Femenino,19,error,charmander,NIVEL_1,lunes
+700,4,4,intento,Carla,Femenino,19,error,venusaur,NIVEL_1,lunes
+749,4,4,intento,Carla,Femenino,19,error,bulbasaur,NIVEL_1,lunes
+901,4,4,intento,Carla,Femenino,19,ok,bulbasaur,NIVEL_1,lunes
+957,4,4,intento,Carla,Femenino,19,error,charmander,NIVEL_1,lunes
+1100,4,4,intento,Carla,Femenino,19,error,venusaur,NIVEL_1,lunes
+1152,4,4,intento,Carla,Femenino,19,error,venusaur,NIVEL_1,lunes
+1301,4,4,intento,Carla,Femenino,19,ok,venusaur,NIVEL_1,lunes
+1323,4,4,intento,Carla,Femenino,19,error,charmander,NIVEL_1,lunes
+1400,4,4,intento,Carla,Femenino,19,ok,charmander,NIVEL_1,lunes
+1400,4,4,fin,Carla,Femenino,19,finalizada,,NIVEL_1,lunes
+0,5,4,inicio_partida,Carla,Femenino,19,,,NIVEL_1,lunes
+105,5,4,intento,Carla,Femenino,19,error,butterfree,NIVEL_1,lunes
+300,5,4,intento,Carla,Femenino,19,error,metapod,NIVEL_1,lunes
+348,5,4,intento,Carla,Femenino,19,error,metapod,NIVEL_1,lunes
+500,5,4,intento,Carla,Femenino,19,ok,metapod,NIVEL_1,lunes
+552,5,4,intento,Carla,Femenino,19,error,caterpie,NIVEL_1,lunes
+700,5,4,intento,Carla,Femenino,19,error,weedle,NIVEL_1,lunes
+739,5,4,intento,Carla,Femenino,19,error,butterfree,NIVEL_1,lunes
+900,5,4,intento,Carla,Femenino,19,ok,butterfree,NIVEL_1,lunes
+944,5,4,intento,Carla,Femenino,19,error,weedle,NIVEL_1,lunes
+1100,5,4,intento,Carla,Femenino,19,error,caterpie,NIVEL_1,lunes
+1147,5,4,intento,Carla,Femenino,19,error,weedle,NIVEL_1,lunes
+1300,5,4,intento,Carla,Femenino,19,ok,weedle,NIVEL_1,lunes
+1363,5,4,intento,Carla,Femenino,19,error,caterpie,NIVEL_1,lunes
+1501,5,4,intento,Carla,Femenino,19,ok,caterpie,NIVEL_1,lunes
+1501,5,4,fin,Carla,Femenino,19,finalizada,,NIVEL_1,lunes
+0,6,4,inicio_partida,Juan,Masculino,40,,,NIVEL_1,lunes
+102,6,4,intento,Juan,Masculino,40,error,pidgey,NIVEL_1,lunes
+200,6,4,intento,Juan,Masculino,40,error,butterfree,NIVEL_1,lunes
+257,6,4,intento,Juan,Masculino,40,error,pidgeotto,NIVEL_1,lunes
+401,6,4,intento,Juan,Masculino,40,error,charizard,NIVEL_1,lunes
+438,6,4,intento,Juan,Masculino,40,error,pidgeotto,NIVEL_1,lunes
+601,6,4,intento,Juan,Masculino,40,error,butterfree,NIVEL_1,lunes
+665,6,4,intento,Juan,Masculino,40,error,pidgeotto,NIVEL_1,lunes
+801,6,4,intento,Juan,Masculino,40,ok,pidgeotto,NIVEL_1,lunes
+870,6,4,intento,Juan,Masculino,40,error,charizard,NIVEL_1,lunes
+1100,6,4,intento,Juan,Masculino,40,ok,charizard,NIVEL_1,lunes
+1100,6,4,fin,Juan,Masculino,40,timeout,,NIVEL_1,lunes
+0,7,4,inicio_partida,Juan,Masculino,40,,,NIVEL_1,lunes
+497,7,4,intento,Juan,Masculino,40,error,butterfree,NIVEL_1,lunes
+600,7,4,intento,Juan,Masculino,40,error,charizard,NIVEL_1,lunes
+648,7,4,fin,Juan,Masculino,40,abandonada,,NIVEL_1,lunes
+0,8,4,inicio_partida,lean,No binarie,0,,,NIVEL_1,lunes
+327,8,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,lunes
+501,8,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+555,8,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,lunes
+700,8,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+742,8,4,fin,lean,No binarie,0,abandonada,,NIVEL_1,lunes
+0,9,4,inicio_partida,lean,No binarie,0,,,NIVEL_1,lunes
+206,9,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,lunes
+301,9,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+449,9,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,lunes
+601,9,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+649,9,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,lunes
+701,9,4,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_1,lunes
+720,9,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,lunes
+802,9,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+879,9,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+1001,9,4,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_1,lunes
+1003,9,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,lunes
+1200,9,4,intento,lean,No binarie,0,ok,The Rock,NIVEL_1,lunes
+1367,9,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,lunes
+1600,9,4,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_1,lunes
+1600,9,4,fin,lean,No binarie,0,finalizada,,NIVEL_1,lunes
+0,10,4,inicio_partida,lean,No binarie,0,,,NIVEL_1,lunes
+184,10,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,lunes
+300,10,4,intento,lean,No binarie,0,ok,The Rock,NIVEL_1,lunes
+357,10,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+500,10,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,lunes
+557,10,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,lunes
+700,10,4,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_1,lunes
+801,10,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,lunes
+900,10,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+966,10,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,lunes
+1101,10,4,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_1,lunes
+1154,10,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,lunes
+1200,10,4,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_1,lunes
+1200,10,4,fin,lean,No binarie,0,finalizada,,NIVEL_1,lunes
+0,11,8,inicio_partida,lean,No binarie,0,,,NIVEL_2,lunes
+193,11,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+301,11,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+318,11,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+501,11,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+508,11,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+600,11,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+675,11,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+801,11,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+818,11,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+901,11,8,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_2,lunes
+908,11,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+1100,11,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1135,11,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1200,11,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+1323,11,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1500,11,8,intento,lean,No binarie,0,ok,Ransom,NIVEL_2,lunes
+1542,11,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+1700,11,8,intento,lean,No binarie,0,ok,Con Air,NIVEL_2,lunes
+1736,11,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+1900,11,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1918,11,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+2100,11,8,intento,lean,No binarie,0,ok,The Sixth Sense,NIVEL_2,lunes
+2106,11,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+2300,11,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2319,11,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2500,11,8,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2535,11,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+2700,11,8,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_2,lunes
+2714,11,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+2901,11,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+2912,11,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+3001,11,8,intento,lean,No binarie,0,ok,Enemy of the State,NIVEL_2,lunes
+3027,11,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+3100,11,8,intento,lean,No binarie,0,ok,The Rock,NIVEL_2,lunes
+3100,11,8,fin,lean,No binarie,0,finalizada,,NIVEL_2,lunes
+0,12,8,inicio_partida,lean,No binarie,0,,,NIVEL_2,lunes
+299,12,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+401,12,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+453,12,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+600,12,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+631,12,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+700,12,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+770,12,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+901,12,8,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_2,lunes
+1110,12,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1301,12,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+1311,12,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+1401,12,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1416,12,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+1500,12,8,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_2,lunes
+1567,12,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+1700,12,8,intento,lean,No binarie,0,ok,The Sixth Sense,NIVEL_2,lunes
+1740,12,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+1800,12,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1855,12,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+2001,12,8,intento,lean,No binarie,0,ok,Ransom,NIVEL_2,lunes
+2042,12,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+2200,12,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2241,12,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2400,12,8,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_2,lunes
+2424,12,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+2600,12,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+2606,12,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+2801,12,8,intento,lean,No binarie,0,ok,Con Air,NIVEL_2,lunes
+2816,12,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+2900,12,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+2935,12,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+3100,12,8,intento,lean,No binarie,0,ok,Enemy of the State,NIVEL_2,lunes
+3220,12,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+4182,12,8,fin,lean,No binarie,0,timeout,,NIVEL_2,lunes
+0,13,8,inicio_partida,lean,No binarie,0,,,NIVEL_2,lunes
+236,13,8,intento,lean,No binarie,0,error,Enemy of the State,NIVEL_2,lunes
+300,13,8,intento,lean,No binarie,0,ok,Enemy of the State,NIVEL_2,lunes
+331,13,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+400,13,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+418,13,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+500,13,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+533,13,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+700,13,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+706,13,8,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_2,lunes
+800,13,8,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_2,lunes
+832,13,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+901,13,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+1006,13,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+1100,13,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+1128,13,8,intento,lean,No binarie,0,error,The Rock,NIVEL_2,lunes
+1300,13,8,intento,lean,No binarie,0,ok,The Rock,NIVEL_2,lunes
+1323,13,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1500,13,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1505,13,8,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1600,13,8,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_2,lunes
+1601,13,8,intento,lean,No binarie,0,error,Con Air,NIVEL_2,lunes
+1800,13,8,intento,lean,No binarie,0,ok,Con Air,NIVEL_2,lunes
+1807,13,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+1900,13,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+1929,13,8,intento,lean,No binarie,0,error,Ransom,NIVEL_2,lunes
+2001,13,8,intento,lean,No binarie,0,ok,Ransom,NIVEL_2,lunes
+2002,13,8,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_2,lunes
+2100,13,8,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_2,lunes
+2135,13,8,intento,lean,No binarie,0,error,The Sixth Sense,NIVEL_2,lunes
+4101,13,8,fin,lean,No binarie,0,timeout,,NIVEL_2,lunes
+0,14,4,inicio_partida,lean,No binarie,0,,,NIVEL_1,martes
+166,14,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+200,14,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+209,14,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,martes
+300,14,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+395,14,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+500,14,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+505,14,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+600,14,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,martes
+644,14,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+700,14,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+711,14,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+786,14,4,fin,lean,No binarie,0,abandonada,,NIVEL_1,martes
+0,15,4,inicio_partida,lean,No binarie,0,,,NIVEL_1,martes
+217,15,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+300,15,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+306,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+400,15,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+450,15,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+501,15,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+538,15,4,intento,lean,No binarie,0,error,The Rock,NIVEL_1,martes
+602,15,4,intento,lean,No binarie,0,ok,The Rock,NIVEL_1,martes
+605,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+700,15,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,martes
+722,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+800,15,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+808,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+902,15,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,martes
+908,15,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+1000,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+1061,15,4,intento,lean,No binarie,0,error,The Hand That Rocks the Cradle,NIVEL_1,martes
+1100,15,4,intento,lean,No binarie,0,ok,The Hand That Rocks the Cradle,NIVEL_1,martes
+1127,15,4,intento,lean,No binarie,0,error,Dick Tracy,NIVEL_1,martes
+1200,15,4,intento,lean,No binarie,0,ok,Dick Tracy,NIVEL_1,martes
+1224,15,4,intento,lean,No binarie,0,error,Crimson Tide,NIVEL_1,martes
+1300,15,4,intento,lean,No binarie,0,ok,Crimson Tide,NIVEL_1,martes
+1300,15,4,fin,lean,No binarie,0,finalizada,,NIVEL_1,martes

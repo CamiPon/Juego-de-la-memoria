@@ -1,0 +1,12 @@
+{
+    "invitado": {
+        "password": "invitado",
+        "genero": "desconocido",
+        "edad": "0",
+        "puntos": {
+            "NIVEL_1": 140,
+            "NIVEL_2": 0,
+            "NIVEL_3": 0
+        }
+    }
+}

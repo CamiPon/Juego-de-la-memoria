@@ -1,0 +1,23 @@
+{
+    "invitado": {
+        "textos": {
+            "Comienzo": "Ahora comienza la partida",
+            "Gano": "¡Ganaste!",
+            "Perdio": "¡Perdiste!",
+            "Quedan 30 segundos": "¡Quedan menos de 30 segundos!"
+        },
+        "cant_casillas": {
+            "NIVEL_1": "4x2",
+            "NIVEL_2": "4x4",
+            "NIVEL_3": "6x3"
+        },
+        "coincidencias": 2,
+        "tiempo": 65,
+        "estilo": "t1",
+        "tipo_elementos": "Imagenes",
+        "ayudas": [
+            true,
+            3
+        ]
+    }
+}
